@@ -1,2 +1,2 @@
 # shared-poetry
-Repo used for my Cit/GitHub training class
+Repo used for Chris Cowell's Git/GitHub training class
