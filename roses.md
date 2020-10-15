@@ -1,4 +1,4 @@
-Roses are red,
+Roses are purple,
 
 Violets are blue.
 
